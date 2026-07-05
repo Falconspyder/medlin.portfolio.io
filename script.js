@@ -55,82 +55,82 @@
   const brands = {
 
   "Belong": [
-    "portfolio/Posters/Branding/Belong/1.webp",
-    "portfolio/Posters/Branding/Belong/2.webp",
-    "portfolio/Posters/Branding/Belong/3.webp",
-    "portfolio/Posters/Branding/Belong/4.webp",
-    "portfolio/Posters/Branding/Belong/5.webp",
-    "portfolio/Posters/Branding/Belong/6.webp",
+    "Posters/Branding/Belong/1.webp",
+    "Posters/Branding/Belong/2.webp",
+    "Posters/Branding/Belong/3.webp",
+    "Posters/Branding/Belong/4.webp",
+    "Posters/Branding/Belong/5.webp",
+    "Posters/Branding/Belong/6.webp",
   ],
 
   "Cochin distillery": [
-    "portfolio/Posters/Branding/Cochindist/1.webp",
-    "portfolio/Posters/Branding/Cochindist/2.webp",
-    "portfolio/Posters/Branding/Cochindist/3.webp",
+    "Posters/Branding/Cochindist/1.webp",
+    "Posters/Branding/Cochindist/2.webp",
+    "Posters/Branding/Cochindist/3.webp",
   ],
 
   "Lavista": [
-    "portfolio/Posters/Branding/Lavista/4.webp",
-    "portfolio/Posters/Branding/Lavista/5.webp",
+    "Posters/Branding/Lavista/4.webp",
+    "Posters/Branding/Lavista/5.webp",
   ],
 
   "College": [
-    "portfolio/Posters/College/1.webp",
-    "portfolio/Posters/College/2.webp",
-    "portfolio/Posters/College/3.webp",
-    "portfolio/Posters/College/4.webp",
-    "portfolio/Posters/College/5.webp",
-    "portfolio/Posters/College/6.webp",
-    "portfolio/Posters/College/7.webp",
-    "portfolio/Posters/College/8.webp",
-    "portfolio/Posters/College/9.webp",
-    "portfolio/Posters/College/10.webp",
-    "portfolio/Posters/College/11.webp",
-    "portfolio/Posters/College/12.webp",
-    "portfolio/Posters/College/13.webp",
-    "portfolio/Posters/College/14.webp",
-    "portfolio/Posters/College/15.webp",
-    "portfolio/Posters/College/16.webp",
-    "portfolio/Posters/College/17.webp",
-    "portfolio/Posters/College/18.webp",
-    "portfolio/Posters/College/19.webp",
-    "portfolio/Posters/College/20.webp",
+    "Posters/College/1.webp",
+    "Posters/College/2.webp",
+    "Posters/College/3.webp",
+    "Posters/College/4.webp",
+    "Posters/College/5.webp",
+    "Posters/College/6.webp",
+    "Posters/College/7.webp",
+    "Posters/College/8.webp",
+    "Posters/College/9.webp",
+    "Posters/College/10.webp",
+    "Posters/College/11.webp",
+    "Posters/College/12.webp",
+    "Posters/College/13.webp",
+    "Posters/College/14.webp",
+    "Posters/College/15.webp",
+    "Posters/College/16.webp",
+    "Posters/College/17.webp",
+    "Posters/College/18.webp",
+    "Posters/College/19.webp",
+    "Posters/College/20.webp",
   ]
 };
 
 const events = {
 
   "Sanskriti": [
-    "portfolio/Posters/Event/Sanskriti/1.webp",
-    "portfolio/Posters/Event/Sanskriti/2.webp",
-    "portfolio/Posters/Event/Sanskriti/3.webp",
-    "portfolio/Posters/Event/Sanskriti/4.webp",
-    "portfolio/Posters/Event/Sanskriti/5.webp",
-    "portfolio/Posters/Event/Sanskriti/6.webp",
-    "portfolio/Posters/Event/Sanskriti/7.webp",
-    "portfolio/Posters/Event/Sanskriti/8.webp"    
+    "Posters/Event/Sanskriti/1.webp",
+    "Posters/Event/Sanskriti/2.webp",
+    "Posters/Event/Sanskriti/3.webp",
+    "Posters/Event/Sanskriti/4.webp",
+    "Posters/Event/Sanskriti/5.webp",
+    "Posters/Event/Sanskriti/6.webp",
+    "Posters/Event/Sanskriti/7.webp",
+    "Posters/Event/Sanskriti/8.webp"    
   ],
 
   "Takshak": [
-    "portfolio/Posters/Event/Takshak/1.webp",
-    "portfolio/Posters/Event/Takshak/2.webp",
-    "portfolio/Posters/Event/Takshak/3.webp",
-    "portfolio/Posters/Event/Takshak/4.webp"
+    "Posters/Event/Takshak/1.webp",
+    "Posters/Event/Takshak/2.webp",
+    "Posters/Event/Takshak/3.webp",
+    "Posters/Event/Takshak/4.webp"
   ],
 
   "Other": [
-    "portfolio/Posters/Event/Other/1.webp",
-    "portfolio/Posters/Event/Other/2.webp",
-    "portfolio/Posters/Event/Other/3.webp",
-    "portfolio/Posters/Event/Other/4.webp",
-    "portfolio/Posters/Event/Other/5.webp",
-    "portfolio/Posters/Event/Other/6.webp",
-    "portfolio/Posters/Event/Other/7.webp",
-    "portfolio/Posters/Event/Other/8.webp",
-    "portfolio/Posters/Event/Other/9.webp",
-    "portfolio/Posters/Event/Other/10.webp",
-    "portfolio/Posters/Event/Other/11.webp",
-    "portfolio/Posters/Event/Other/12.webp"
+    "Posters/Event/Other/1.webp",
+    "Posters/Event/Other/2.webp",
+    "Posters/Event/Other/3.webp",
+    "Posters/Event/Other/4.webp",
+    "Posters/Event/Other/5.webp",
+    "Posters/Event/Other/6.webp",
+    "Posters/Event/Other/7.webp",
+    "Posters/Event/Other/8.webp",
+    "Posters/Event/Other/9.webp",
+    "Posters/Event/Other/10.webp",
+    "Posters/Event/Other/11.webp",
+    "Posters/Event/Other/12.webp"
   ]
 
 };
