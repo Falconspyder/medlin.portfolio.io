@@ -55,82 +55,82 @@
   const brands = {
 
   "Belong": [
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Branding/Belong/1.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Branding/Belong/2.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Branding/Belong/3.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Branding/Belong/4.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Branding/Belong/5.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Branding/Belong/6.webp",
+    "portfolio/Posters/Branding/Belong/1.webp",
+    "portfolio/Posters/Branding/Belong/2.webp",
+    "portfolio/Posters/Branding/Belong/3.webp",
+    "portfolio/Posters/Branding/Belong/4.webp",
+    "portfolio/Posters/Branding/Belong/5.webp",
+    "portfolio/Posters/Branding/Belong/6.webp",
   ],
 
   "Cochin distillery": [
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Branding/Cochindist/1.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Branding/Cochindist/2.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Branding/Cochindist/3.webp",
+    "portfolio/Posters/Branding/Cochindist/1.webp",
+    "portfolio/Posters/Branding/Cochindist/2.webp",
+    "portfolio/Posters/Branding/Cochindist/3.webp",
   ],
 
   "Lavista": [
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Branding/Lavista/4.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Branding/Lavista/5.webp",
+    "portfolio/Posters/Branding/Lavista/4.webp",
+    "portfolio/Posters/Branding/Lavista/5.webp",
   ],
 
   "College": [
-    "D:/Medlin/clg/Extra files/portfolio/Posters/College/1.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/College/2.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/College/3.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/College/4.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/College/5.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/College/6.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/College/7.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/College/8.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/College/9.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/College/10.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/College/11.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/College/12.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/College/13.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/College/14.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/College/15.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/College/16.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/College/17.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/College/18.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/College/19.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/College/20.webp",
+    "portfolio/Posters/College/1.webp",
+    "portfolio/Posters/College/2.webp",
+    "portfolio/Posters/College/3.webp",
+    "portfolio/Posters/College/4.webp",
+    "portfolio/Posters/College/5.webp",
+    "portfolio/Posters/College/6.webp",
+    "portfolio/Posters/College/7.webp",
+    "portfolio/Posters/College/8.webp",
+    "portfolio/Posters/College/9.webp",
+    "portfolio/Posters/College/10.webp",
+    "portfolio/Posters/College/11.webp",
+    "portfolio/Posters/College/12.webp",
+    "portfolio/Posters/College/13.webp",
+    "portfolio/Posters/College/14.webp",
+    "portfolio/Posters/College/15.webp",
+    "portfolio/Posters/College/16.webp",
+    "portfolio/Posters/College/17.webp",
+    "portfolio/Posters/College/18.webp",
+    "portfolio/Posters/College/19.webp",
+    "portfolio/Posters/College/20.webp",
   ]
 };
 
 const events = {
 
   "Sanskriti": [
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Event/Sanskriti/1.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Event/Sanskriti/2.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Event/Sanskriti/3.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Event/Sanskriti/4.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Event/Sanskriti/5.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Event/Sanskriti/6.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Event/Sanskriti/7.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Event/Sanskriti/8.webp"    
+    "portfolio/Posters/Event/Sanskriti/1.webp",
+    "portfolio/Posters/Event/Sanskriti/2.webp",
+    "portfolio/Posters/Event/Sanskriti/3.webp",
+    "portfolio/Posters/Event/Sanskriti/4.webp",
+    "portfolio/Posters/Event/Sanskriti/5.webp",
+    "portfolio/Posters/Event/Sanskriti/6.webp",
+    "portfolio/Posters/Event/Sanskriti/7.webp",
+    "portfolio/Posters/Event/Sanskriti/8.webp"    
   ],
 
   "Takshak": [
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Event/Takshak/1.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Event/Takshak/2.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Event/Takshak/3.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Event/Takshak/4.webp"
+    "portfolio/Posters/Event/Takshak/1.webp",
+    "portfolio/Posters/Event/Takshak/2.webp",
+    "portfolio/Posters/Event/Takshak/3.webp",
+    "portfolio/Posters/Event/Takshak/4.webp"
   ],
 
   "Other": [
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Event/Other/1.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Event/Other/2.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Event/Other/3.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Event/Other/4.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Event/Other/5.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Event/Other/6.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Event/Other/7.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Event/Other/8.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Event/Other/9.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Event/Other/10.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Event/Other/11.webp",
-    "D:/Medlin/clg/Extra files/portfolio/Posters/Event/Other/12.webp"
+    "portfolio/Posters/Event/Other/1.webp",
+    "portfolio/Posters/Event/Other/2.webp",
+    "portfolio/Posters/Event/Other/3.webp",
+    "portfolio/Posters/Event/Other/4.webp",
+    "portfolio/Posters/Event/Other/5.webp",
+    "portfolio/Posters/Event/Other/6.webp",
+    "portfolio/Posters/Event/Other/7.webp",
+    "portfolio/Posters/Event/Other/8.webp",
+    "portfolio/Posters/Event/Other/9.webp",
+    "portfolio/Posters/Event/Other/10.webp",
+    "portfolio/Posters/Event/Other/11.webp",
+    "portfolio/Posters/Event/Other/12.webp"
   ]
 
 };
